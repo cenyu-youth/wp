@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+li{
+	list-style: none;
+}
+.box{
+	width: 400px;
+	height: 200px;
+	border: 1px solid #60C5F1;
+	margin: 0 auto;
+}
+.box ul{
+	width: 100%;
+	height: 30px;
+	background: #E67A2F;
+}
+.box ul li{
+	width: 25%;
+	height: 100%;
+	text-align: center;
+	float: left;
+}
+.con{
+	background: red;
+}
+.box .ct div{
+	width: 400px;
+	height: 100%;
+	text-align: center;
+}
